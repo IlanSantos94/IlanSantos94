@@ -1,10 +1,14 @@
 ### Hi there 👋
+![MasterHead](https://github.com/stanley-rodrigues/Stanley-Rodrigues/blob/master/download%20(1).gif?raw=true)
+<br>
+<h1> Olá! Eu sou Ilan Santos</h1>
 <br>
 
-:zap: Eu sou Ilan, sou um progamador Front End, atualmente estou estudando e criando projetos como:
-- <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="html-logo"/>  
-- <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" alt="css-logo"/>
-- <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" atl="java-logo"/>
+- :hammer: Aqui colocarei projetos em prática e realizados.
+- :books: Estudando progamação em <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
+- :moneybag: Sigo evoluindo a cada dia o meu sonho.
+- :gem: Curiozidade em aprender e conhecimento me cai bem!
+ 
 <br>
 - Vamos avançando e evoluindo juntos nesta jornada!
 <br>
@@ -13,3 +17,5 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&hide_progress=true)
 
 <br>
+<a href="https://www.instagram.com/ilan_santoss/"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+<a href = "mailto:gustavoisaque924@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
