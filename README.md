@@ -5,8 +5,8 @@
 <br>
 
 - :hammer: Aqui colocarei projetos em prática e realizados.
-- :books: Estudando progamação em <a href="https://rodolfomori.com.br/devclub/">DevClub</a>.
-- :moneybag: Sigo evoluindo a cada dia o meu sonho.
+- :books: Estudando Análise e desenvolvimento de sistemas.
+- :moneybag: Sigo evoluindo a cada dia e progredindo em meu sonho.
 - :gem: Curiozidade em aprender e conhecimento me cai bem!
  
 <br>
